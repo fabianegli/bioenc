@@ -36,7 +36,6 @@ This is probably the worst proposal since it would increase the storage size of 
 ### Binary/enum formats?
 
 When saved and shared, DNA can in principle encoded with two bits. This is results in a very efficient storage format but requires an additional definition of the mapping of numbers to acids.
-@Peter: do you know if and how this is used in practice nowadays?
 
 The addition of more codes leads to changes in the number of bits necessary to encode the chemical entities and this can lead to a multitude of different encodings. The use of different encodings is a recipe for confusion, parsing errors and ultimately data loss coupled with breaking or even false analytics and should be avoided. (The reason I write this is the troubles people experienced when exchanging text files on the web over language barriers in the time before UTF-8 became the de facto standard for plain text files on the web.)
 
