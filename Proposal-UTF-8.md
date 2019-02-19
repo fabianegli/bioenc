@@ -1,4 +1,4 @@
-# Proposal 1: UTF-8 as Biosequence Encoding
+# Proposal 1: UTF-8 as Bio-sequence Encoding
 
 Inclusion of The Unicode Consortium and IUPAC/IUBMB.
 
@@ -10,7 +10,7 @@ From the [Unicode FAQ](http://www.unicode.org/faq/basic_q.html):
 >
 > A: Unicode covers all the characters for all the writing systems of the world, modern and ancient. It also includes technical symbols, punctuations, and many other characters used in writing text. The Unicode Standard is intended to support the needs of all types of users, whether in business or academia, using mainstream or minority scripts.
 
-This is a clear commitment to science and as biosequences are central to biology
+This is a clear commitment to science and as bio-sequences are central to biology
 and life itself, I believe that "The Unicode Consortium" can be convinced to
 dedicate a fair number of code points to nucleic and amino acids.
 

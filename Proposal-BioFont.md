@@ -1,7 +1,7 @@
 # Proposal 2: Creation of The BioFont Font Family
 
 The codepoints newly mapped to chemical entities, need defined glyphs to allow
-visual representations of the biosequences.
+visual representations of the bio-sequences.
 
 Fonts need to be designed systematically as to allow biologists to learn the
 system and then be able to read the glyphs, i.e. deduce the structure they
