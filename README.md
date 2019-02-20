@@ -16,6 +16,7 @@ The general idea is summarized in the following graphic.
 ├── Fabian\ Egli\ fabian.egli@gmx.ch\ (0x63E17ADB7D4734B4)\ pub.asc
 ├── Glossary.md
 ├── Introduction.md
+├── Link-Collection.md
 ├── Project-Log.md
 ├── Proposal-BioFont.md
 ├── Proposal-UTF-8.md
@@ -84,13 +85,24 @@ I will also collect data and information about the funding process and try to
 make it a resource for other scientist searching for funding of similar
 projects.
 
+I also hope that funding bodies see this as a proof of my dedication to
+transparency and open access to scientific research carried out at public
+institutions.
+
 
 # Project milestones
 
-1. Acquire funding to for this project.
+1. Set the framework for this project.
+2. Acquire funding to for this project.
 2. Realize the project.
 3. Release the project under the Attribution-ShareAlike 4.0 International [(CC
   BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+# Conflict of interests
+
+I have no conflicts of interest. I receive no benefits, monetary or otherwise,
+for this work.
 
 
 # Contact
