@@ -9,6 +9,7 @@ i.e. post-translational modifications of proteins and DNA modifications.
 
 ```
 .
+├── Fabian\ Egli\ fabian.egli@gmx.ch\ (0x63E17ADB7D4734B4)\ pub.asc
 ├── Glossary.md
 ├── Introduction.md
 ├── Project-Log.md
@@ -21,7 +22,6 @@ i.e. post-translational modifications of proteins and DNA modifications.
 ├── tests
 │   └── Python-Performance-index-access-speed.md
 └── untitled\ folder
-    └── Python-Performance-index-access-speed.md
 ```
 
 
