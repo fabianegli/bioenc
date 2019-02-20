@@ -19,9 +19,8 @@ i.e. post-translational modifications of proteins and DNA modifications.
 ├── README.md
 ├── files
 │   └── Project-Central-Idea.jpg
-├── tests
-│   └── Python-Performance-index-access-speed.md
-└── untitled\ folder
+└── tests
+    └── Python-Performance-index-access-speed.md
 ```
 
 
