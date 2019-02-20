@@ -4,6 +4,10 @@ This repository is ground zero for my project to expand the bio-sequence
 alphabet to allow a wider range of chemical entities as part of bio-sequences,
 i.e. post-translational modifications of proteins and DNA modifications.
 
+The general idea is summarized in the following graphic.
+
+![Project-Central-Idea.jpg A visual and textual explanation of the project ideas and goals.](/files/Project-Central-Idea.jpg)
+
 
 # Contents
 
