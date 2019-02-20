@@ -46,7 +46,7 @@ bio-sequence encoding. Write me an [email][1].
 Copyright © 2019 by Fabian Egli.
 All Rights Reserved.
 
-This repository and all its contents are copyrighted to the fullest extent the
+This repository and all its contents are protected to the fullest extent the
 law permits. All contents, including, but not limited to, original ideas,
 considerations on performance impacts of encoding changes, performance tests,
 encoding proposals and font proposals may not be used for any purpose. You can
@@ -54,12 +54,35 @@ not use any content to acquire grants from any funding agency, except with
 prior explicit written permission from me - [Fabia Emanuel Egli][1].
 
 
-### Why this Restrictive License
+# Why I chose this Restrictive License
 
 I need money to life - and this is my project. Don't steal it. Once I get the
 funding, I will release this repository and its contents under a permissive
 license to benefit the scientific community. After all, this is the whole idea
 of this project.
+
+
+# Why I made it visible to the public
+
+Too many ideas of researchers trying to get funding for their projects,
+including preliminary data, are kept in secret, are not funded, and when no
+funding is given everything is forgotten and finally lost. I don't want this to
+happen with this idea and prevent the time and effort put into this to be lost.
+
+I hope to achieve the following by publicizing the project development:
+
+* Facilitate the participation and collaboration of people in the field.
+* Preventing multiple funding agencies from funding the same work.
+* Speeding up the project - and science.
+* Letting the world know this is my idea. 
+    > Research is necessarily collaborative and the project needs to be shared
+    anyway with a large amount of people. So I figured, once the idea is shared
+    it can be shared in this way, too.
+
+This is the first time I try to get funding for a scientific project of mine.
+I will also collect data and information about the funding process and try to
+make it a resource for other scientist searching for funding of similar
+projects.
 
 
 # Project milestones
