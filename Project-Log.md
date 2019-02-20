@@ -1,6 +1,6 @@
 # Project Log
 
-**February XX, 2019** Publication of the [bioenc repository](https://github.com/fabianegli/bioenc/).
+**February 20, 2019** Publication of the [bioenc repository](https://github.com/fabianegli/bioenc/).
 
 **January 19, 2019** [I propose the use of UTF-8 for bio-sequence encoding](https://github.com/biopython/biopython/issues/1681#issuecomment-454747345).
 
