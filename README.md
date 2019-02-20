@@ -92,14 +92,18 @@ https://www.degruyter.com/view/j/pac.2017.89.issue-11/pac-2016-0502/pac-2016-050
 * [The Unicode Consortium](https://twitter.com/unicode)
 
 
-# LINK COLLECTION
+# Link Collection
+
 http://dbptm.mbc.nctu.edu.tw/
 
 IUPAC nucleic acids (15 single letter codes)
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC341218/
-https://en.wikipedia.org/wiki/Nucleotide#cite_note-iupac-19
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC341218/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC341218/)
+[https://en.wikipedia.org/wiki/Nucleotide#cite_note-iupac-19](https://en.wikipedia.org/wiki/Nucleotide#cite_note-iupac-19)
 
-IUPAC amino acids (26 single letter codes)
+### IUPAC amino acids (26 single letter codes)
+
+IUPAC-IUB Joint Commission on Biochemical Nomenclature (JCBN), [https://link.springer.com/chapter/10.1007%2F978-94-009-7225-4_43](https://link.springer.com/chapter/10.1007%2F978-94-009-7225-4_43)
+
 
 # Literature
 
@@ -136,7 +140,9 @@ IUPAC amino acids (26 single letter codes)
 
 * UniProt protein modifications [https://www.uniprot.org/help/mod_res](https://www.uniprot.org/help/mod_res)
 
-# DNA Modifications
+# DNA and DNA Modifications
+
+* An extended IUPAC nomenclature code for polymorphic nucleic acids, [https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btq098](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btq098)
 
 * Database or DNA Modifications [https://dnamod.hoffmanlab.org/](https://dnamod.hoffmanlab.org/)
 
