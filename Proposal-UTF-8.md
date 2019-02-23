@@ -22,8 +22,18 @@ https://www.unicode.org/standard/standard.html
 There exists one way to employ UTF-8 as bio-sequence encoding that requires the
 approval of The Unicode Consortium and results in the inclusion of the new
 encoding in the Unicode and one that uses the part of UTF-8 that can be
-used for custom purposes by anyone.
+used for custom purposes by anyone - the [Private Use Area](https://de.wikipedia.org/wiki/Private_Use_Area) consisting of 4096
+code points (Range: E000-F8FF).
 
+
+
+# regex
+
+The bio-sequence analysis with regex could be expanded to include character sets
+that make sense for the introduced code points, e.g. for charge, composition and
+size.
+
+character sets / character classes
 
 
 # Modifications
