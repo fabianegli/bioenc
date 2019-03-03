@@ -19,8 +19,8 @@ IUPAC nucleic acids (15 single letter codes)
 
 ### IUPAC amino acids (26 single letter codes)
 
-IUPAC-IUB Joint Commission on Biochemical Nomenclature (JCBN), [https://link.springer.com/chapter/10.1007%2F978-94-009-7225-4_43](https://link.springer.com/chapter/10.1007%2F978-94-009-7225-4_43)
-
+* IUPAC-IUB Joint Commission on Biochemical Nomenclature (JCBN), [https://link.springer.com/chapter/10.1007%2F978-94-009-7225-4_43](https://link.springer.com/chapter/10.1007%2F978-94-009-7225-4_43)
+* IUPAC-IUBMB Joint Commission on Biochemical Nomenclature (JCBN) andNomenclature Committee of IUBMB (NC-IUBMB) [http://doi.wiley.com/10.1046/j.1432-1327.1999.news99.x](http://doi.wiley.com/10.1046/j.1432-1327.1999.news99.x)
 
 # Literature
 
@@ -35,6 +35,8 @@ IUPAC-IUB Joint Commission on Biochemical Nomenclature (JCBN), [https://link.spr
 ### Font & Glyph Design
 
 * Taxonomy-Based Glyph Design—with a Case Study on Visualizing Workflows of Biological Experiments [10.1109/TVCG.2012.271](https://doi.org/10.1109/TVCG.2012.271)
+* Simplicity, function, and legibility in an
+enhanced ambigraphic nucleic acid notation [https://www.future-science.com/doi/pdf/10.2144/000112727](https://www.future-science.com/doi/pdf/10.2144/000112727)
 
 ## PTMs
 
@@ -62,9 +64,9 @@ IUPAC-IUB Joint Commission on Biochemical Nomenclature (JCBN), [https://link.spr
 
 # DNA and DNA Modifications
 
-* An extended IUPAC nomenclature code for polymorphic nucleic acids, [https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btq098](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btq098)
+* An extended IUPAC nomenclature code for polymorphic nucleic acids, [https://academic.oup.com/bioinformatics/article/26/10/1386/192905](https://academic.oup.com/bioinformatics/article/26/10/1386/192905) 
 
-* Database or DNA Modifications [https://dnamod.hoffmanlab.org/](https://dnamod.hoffmanlab.org/)
+* Database or DNA Modifications [https://dnamod.hoffmanlab.org/](https://dnamod.hoffmanlab.org/) ([BioRxiv](http://biorxiv.org/lookup/doi/10.1101/071712))
 
 
 # Twitter handles of important entities
